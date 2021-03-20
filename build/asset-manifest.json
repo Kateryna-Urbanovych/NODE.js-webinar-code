@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the-best-chat/static/css/main.43f2eff3.chunk.css",
+    "main.js": "/the-best-chat/static/js/main.efd0eb80.chunk.js",
+    "main.js.map": "/the-best-chat/static/js/main.efd0eb80.chunk.js.map",
+    "runtime-main.js": "/the-best-chat/static/js/runtime-main.2720d00e.js",
+    "runtime-main.js.map": "/the-best-chat/static/js/runtime-main.2720d00e.js.map",
+    "static/js/2.b64e45de.chunk.js": "/the-best-chat/static/js/2.b64e45de.chunk.js",
+    "static/js/2.b64e45de.chunk.js.map": "/the-best-chat/static/js/2.b64e45de.chunk.js.map",
+    "static/js/3.5addb79c.chunk.js": "/the-best-chat/static/js/3.5addb79c.chunk.js",
+    "static/js/3.5addb79c.chunk.js.map": "/the-best-chat/static/js/3.5addb79c.chunk.js.map",
+    "index.html": "/the-best-chat/index.html",
+    "static/css/main.43f2eff3.chunk.css.map": "/the-best-chat/static/css/main.43f2eff3.chunk.css.map",
+    "static/js/2.b64e45de.chunk.js.LICENSE.txt": "/the-best-chat/static/js/2.b64e45de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2720d00e.js",
+    "static/js/2.b64e45de.chunk.js",
+    "static/css/main.43f2eff3.chunk.css",
+    "static/js/main.efd0eb80.chunk.js"
+  ]
+}
